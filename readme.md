@@ -265,18 +265,6 @@ Strong report with minor improvements needed.
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here after deployment.
-
-```text
-screenshots/home.png
-screenshots/report.png
-screenshots/critic.png
-```
-
----
-
 # 🤝 Contributing
 
 Contributions are welcome.
@@ -304,11 +292,6 @@ git push origin feature-name
 
 ---
 
-# 📜 License
-
-MIT License
-
----
 
 # 👩‍💻 Author
 
